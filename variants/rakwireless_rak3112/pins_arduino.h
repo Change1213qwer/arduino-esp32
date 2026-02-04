@@ -24,6 +24,9 @@ static const uint8_t BAT_VOLT = 21;
 static const uint8_t TX = 43;
 static const uint8_t RX = 44;
 
+static const uint8_t TX1 = 43;  //Add uart1 tx1
+static const uint8_t RX1 = 44;  //Add uart1 rx1
+
 static const uint8_t SDA = 9;
 static const uint8_t SCL = 40;
 
